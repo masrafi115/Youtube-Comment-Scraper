@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Youtube-Comment-Scraper</string>
+    <string name="loading_comment">Loading Comment...</string>
+	<string name="export">Export</string>
+    <string name="button_ok" translatable="false">Scrap</string>
+    <string name="about_us">About Us</string>
+</resources>
